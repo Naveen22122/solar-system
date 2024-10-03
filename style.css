@@ -29,10 +29,10 @@ body{
     margin-top:50px;
 }
 #uranus_img{
-    width:100px;
+    width:110px;
     position: absolute;
     top: 350px;
-    left:855px;
+    left:850px;
 }
 #satrun{
     width:700px;
@@ -45,10 +45,10 @@ body{
 
 }
 #satrun_img{
-    width:150px;
+    width:160px;
     position: absolute;
     top: 400px;
-    left:180px;
+    left:175px;
 }
 #jupiter{
     width:600px;
@@ -60,9 +60,9 @@ body{
     margin-top:50px;
 }
 #jupiter_img{
-    width:130px;
+    width:150px;
     position: absolute;
-    top: 822px;
+    top: 810px;
     left:650px;
 }
 #mars{
@@ -75,10 +75,10 @@ body{
     margin-top:50px;
 }
 #mars_img{
-    width:130px;
+    width:100px;
     position: absolute;
     top: 750px;
-    left:325px;
+    left:330px;
 }
 #earth{
     width:400px;
@@ -90,10 +90,10 @@ body{
     margin-top:50px;
 }
 #earth_img{
-    width:100px;
+    width:85px;
     position: absolute;
     top: 600px;
-    left:710px;
+    left:720px;
 }
 #venus{
     width:300px;
@@ -105,10 +105,10 @@ body{
     margin-top:50px;
 }
 #venus_img{
-    width:180px;
+    width:130px;
     position: absolute;
     top: 550px;
-    left:325px;
+    left:350px;
 }
 #mercury{
     width:200px;
@@ -120,14 +120,14 @@ body{
     margin-top:50px;
 }
 #mercury_img{
-    width:130px;
+    width:70px;
     position: absolute;
-    top: 470px;
-    left:520px;
+    top: 490px;
+    left:550px;
 }
 #sun{
-    width:220px;
+    width:330px;
     position: absolute;
-    top: 560px;
-    left:460px;
+    top: 525px;
+    left:400px;
 }
